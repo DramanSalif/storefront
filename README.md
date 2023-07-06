@@ -1,2 +1,2 @@
 # storefront
-this is a website using Django framework
+this is a website development using Django framework
